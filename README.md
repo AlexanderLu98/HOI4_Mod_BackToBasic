@@ -7,3 +7,6 @@
 - [ ] Potential Remove Operatives
 - [ ] Army
 - [ ] Potenstially remove Airforce
+- [ ] Test removeal of countries
+- [ ] 
+
