@@ -2,7 +2,7 @@
 
 ### ToDO
 - [X] States
-- [ ] Remove Navy
+- [X] Remove Navy
 - [ ] Focus tree
 - [ ] Potential Remove Operatives
 - [ ] Army
